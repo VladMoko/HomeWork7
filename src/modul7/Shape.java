@@ -1,6 +1,6 @@
 package modul7;
 
-public abstract class Shape extends Main{
+public abstract class Shape {
 
     public abstract void name();
 }
